@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    
+}
+#login {
+    text-align: center;
+    margin-top: 5%;
+}
+input[type="submit"]{
+    width: 180px;
+    padding: 20px;
+    
+}
